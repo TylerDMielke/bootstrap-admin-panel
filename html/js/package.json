@@ -1,0 +1,14 @@
+{
+  "name": "AdminPanel",
+  "version": "0.0.1",
+  "description": "utility code for server adminministration panel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tyler Mielke",
+  "contributors": "John Walsh",
+  "dependencies": {
+    "node-powershell": "^3.1.1"
+  }
+}
